@@ -1,0 +1,48 @@
+html{
+	margin:0px;
+	padding:15px;
+	width:500px;
+	height:500px;
+	background-color: azure;
+}
+
+body{
+	width:100%;
+	margin:auto;
+	text-align:center;
+	background-color:Cornflowerblue;
+	
+	/* delimiting body size for practice*/
+	height:100%;				
+	border:3px solid black;
+}
+
+header, footer{
+	margin:10px;
+	padding:0px,5px;
+	background-color:rgba(139,139,139,0.75);
+}
+
+
+footer{
+	font-size:12px;
+	font-weight:bold;
+}
+
+#colorDiv{
+	
+	background-color:brown;
+	width:25px;
+	height:25px;
+	border:1px solid black;
+	margin:auto;
+}
+
+
+#canvas0504{
+	background-color:azure;
+	padding:5px;
+	margin:10px;
+	border:2px solid black;
+	
+}
